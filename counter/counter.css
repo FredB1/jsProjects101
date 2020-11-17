@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/8f/b0/7d/8fb07d1d8660048cc089a07047e7e77d.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main {
+    border-style: inset;
+    width: min-content;
+    text-align: center;
+    display: block;
+}
+#count {
+    font-size: 20em;
+    margin: 0em;
+    color: green;
+    text-shadow: none;
+}
+h1 {
+    color: white;
+    margin-top: 0em;
+    text-shadow: 5px 0px teal;
+}
+button {
+    background-color: #0D2C54;
+    color: white;
+    box-shadow: 0px 0px 10px 5px;
+}
