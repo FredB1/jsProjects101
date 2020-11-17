@@ -1,0 +1,23 @@
+body {
+    background-color: #eae2b7;
+}
+div {
+    width: 50vw;
+    border-style: ridge;
+}
+h1 {
+    color: #003049;
+}
+button {
+    background-color: #fcbf49;
+}
+p {
+    font-weight: bold;
+    font-size: large;
+}
+#author {
+    color: #d62828;
+}
+#quote {
+ color: #A85700;   
+}
